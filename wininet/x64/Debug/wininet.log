@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\MRD\Desktop\github\explorer\wininet\wininet\dllmain.cpp(6,35): warning C4273: 'InternetCrackUrlW': inconsistent dll linkage
+  (compiling source file '/dllmain.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\wininet.h(804,1):
+      see previous definition of 'InternetCrackUrlW'
+  
+     Creating library C:\Users\MRD\Desktop\github\explorer\wininet\x64\Debug\wininet.lib and object C:\Users\MRD\Desktop\github\explorer\wininet\x64\Debug\wininet.exp
+  wininet.vcxproj -> C:\Users\MRD\Desktop\github\explorer\wininet\x64\Debug\wininet.dll
